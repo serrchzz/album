@@ -17,6 +17,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { AlbumComponent } from './components/album/album.component';
 import { AboutComponent } from './components/about/about.component';
 import { ProductoComponent } from './components/producto/producto.component';
+import { SearchComponent } from './components/search/search.component';
 
 
 
@@ -28,6 +29,7 @@ import { ProductoComponent } from './components/producto/producto.component';
     AlbumComponent,
     AboutComponent,
     ProductoComponent,
+    SearchComponent,
 
 
   ],
